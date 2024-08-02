@@ -1,0 +1,15 @@
+
+–
+java:S2095"NUse try-with-resources or close this "JRubyAsciidoctor" in a "finally" clause.(èä•¸şÿÿÿÿ8Šü°–2J$c41ae43d-c06e-4054-9221-1f5f716375b2
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°±èÚÿÿÿÿÿ8‹ü°–2J$be186d1e-8785-4636-89dd-61a3fff31f69
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô‹Òõøÿÿÿÿ8‹ü°–2J$01c64d2c-88ae-4cef-83f1-0935b546e725
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(°±èÚÿÿÿÿÿ8ü°–2J$f5602626-4647-4860-9bc2-763c4d5b42ca
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°±èÚÿÿÿÿÿ8ü°–2J$51097501-9d46-4c79-a876-b93418f86928
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ô‹Òõøÿÿÿÿ8ü°–2J$a7f7a412-5f79-4b04-ae1f-4dec131131bd
+r	java:S106&"+Replace this use of System.out by a logger.(„Ùëşÿÿÿÿ8‘ü°–2J$6d541bba-7be9-402b-803e-81dbffd69536
+m	java:S106'"+Replace this use of System.out by a logger.(ÿ¿‹°8‘ü°–2J$c2a473d3-9550-4164-89c6-ec15f0a03553
+l	java:S106-"+Replace this use of System.out by a logger.(§¿Âc8•ü°–2J$90a8f84d-201b-4643-86cf-b1108b52cae6
+m	java:S1068"+Replace this use of System.out by a logger.(’ƒü8–ü°–2J$91507962-b445-4348-9fbd-dc573ff89fc9

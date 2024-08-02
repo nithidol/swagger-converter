@@ -1,0 +1,23 @@
+extends: default
+base:
+  font_family: THSarabun
+font:
+  catalog:
+    THSarabun:
+      normal: THSarabun.ttf
+      bold: THSarabun Bold.ttf
+      italic: THSarabun Italic.ttf
+      bold_italic: THSarabun BoldItalic.ttf
+    Noto Serif:
+      normal: GEM_FONTS_DIR/notoserif-regular-subset.ttf
+      bold: GEM_FONTS_DIR/notoserif-bold-subset.ttf
+      italic: GEM_FONTS_DIR/notoserif-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/notoserif-bold_italic-subset.ttf
+      # M+ 1mn supports ASCII and the circled numbers used for conums
+    M+ 1mn:
+      normal: GEM_FONTS_DIR/mplus1mn-regular-subset.ttf
+      bold: GEM_FONTS_DIR/mplus1mn-bold-subset.ttf
+      italic: GEM_FONTS_DIR/mplus1mn-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/mplus1mn-bold_italic-subset.ttf
+  fallback:
+    - THSarabun
